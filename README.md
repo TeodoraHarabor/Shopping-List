@@ -1,3 +1,3 @@
 # Shopping-List
 
-shopping-list-teodorah.surge.sh
+https://shopping-list-teodorah.surge.sh/
